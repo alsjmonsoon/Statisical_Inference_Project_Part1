@@ -3,7 +3,7 @@
 
 ###Demonstration the Central Limit Theorem using simulation of the exponential distribution   
 
-date: "November 18, 2015"
+November 18, 2015
 ===================================================================================
 
 ####**Overview**: 
