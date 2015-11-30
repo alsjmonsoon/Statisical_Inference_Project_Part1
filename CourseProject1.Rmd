@@ -1,8 +1,7 @@
 
 ===================================================================================
 
-###Demonstration the Central Limit Theorem using simulation of the exponential distribution   
-
+###Demonstration the Central Limit Theorem using simulation of the exponential distribution     
 November 18, 2015
 ===================================================================================
 
